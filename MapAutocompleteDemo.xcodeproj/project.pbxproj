@@ -11,6 +11,7 @@
 		1F57333727E91774004AC260 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F57333627E91774004AC260 /* ContentView.swift */; };
 		1F57333927E91775004AC260 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F57333827E91775004AC260 /* Assets.xcassets */; };
 		1F57333C27E91775004AC260 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F57333B27E91775004AC260 /* Preview Assets.xcassets */; };
+		1F57334327E92165004AC260 /* MapSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F57334227E92165004AC260 /* MapSearch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1F57333627E91774004AC260 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1F57333827E91775004AC260 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1F57333B27E91775004AC260 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1F57334227E92165004AC260 /* MapSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapSearch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				1F57333627E91774004AC260 /* ContentView.swift */,
 				1F57333827E91775004AC260 /* Assets.xcassets */,
 				1F57333A27E91775004AC260 /* Preview Content */,
+				1F57334227E92165004AC260 /* MapSearch.swift */,
 			);
 			path = MapAutocompleteDemo;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1F57334327E92165004AC260 /* MapSearch.swift in Sources */,
 				1F57333727E91774004AC260 /* ContentView.swift in Sources */,
 				1F57333527E91774004AC260 /* MapAutocompleteDemoApp.swift in Sources */,
 			);
